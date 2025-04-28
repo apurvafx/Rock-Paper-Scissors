@@ -23,9 +23,9 @@ To run this project locally, ensure you have the following installed:
 
 Install the required dependencies using pip:
 
-```bash
+'''bash
 pip install streamlit
-```
+'''
 
 ---
 
@@ -34,17 +34,14 @@ pip install streamlit
 Follow these steps to play the game locally:
 
 1. Clone this repository to your local machine:
-```bash
-git clone https://github.com/apurvafx/rock-paper-scissors-game.git
-```
+'''bash
+git clone https://github.com/apurvafx/rock-paper-scissors-game.git'''
 2. Navigate to the project directory:
-```bash
-cd rock-paper-scissors-game
-```
+'''bash
+cd rock-paper-scissors-game'''
 3. Run the Streamlit app:
-```bash
-streamlit run app.py
-```
+'''bash
+streamlit run app.py'''
 4. Open the link provided in your terminal (usually `http://localhost:8501`) to play the game in your browser.
 
 ---
@@ -60,7 +57,7 @@ streamlit run app.py
 
 ## File Structure
 
-```bash
+'''bash
 rock-paper-scissors-game/
 ├── app.py # Main application code
 ├── rock.png # Image for Rock
@@ -70,7 +67,7 @@ rock-paper-scissors-game/
 ├── loser.gif # Animation for losing
 ├── tie.gif # Animation for tie
 └── README.md # Documentation file
-```
+'''
 
 Ensure that all image and GIF files are placed in the same directory as `app.py`.
 
@@ -105,5 +102,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ---
 
-<p align="center">Made with ❤️ using Streamlit</p>
+## 📖 DeepWiki Documentation
 
+This repository is indexed by [DeepWiki](https://deepwiki.com/apurvafx/rock-paper-scissors-game), which provides AI-powered code exploration and documentation.  
+Explore interactive diagrams, code structure, and get instant answers to questions about this codebase on DeepWiki.
+
+---
+
+<p align="center">Made with ❤️ using Streamlit</p>
