@@ -107,8 +107,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## 📖 DeepWiki Documentation
 
-This repository is indexed by [DeepWiki](https://deepwiki.com/apurvafx/rock-paper-scissors-game), which provides AI-powered code exploration and documentation.  
-Explore interactive diagrams, code structure, and get instant answers to questions about this codebase on DeepWiki.
+This repository is indexed and documented by [DeepWiki](https://deepwiki.com/apurvafx/Rock-Paper-Scissors), an AI-powered platform that provides interactive code exploration and detailed documentation.
+
+Explore the system architecture, game logic, user interface, and state management with helpful explanations and diagrams generated automatically.
+
+Check it out for a deeper understanding of the codebase and to get instant answers about this project!
 
 ---
 
